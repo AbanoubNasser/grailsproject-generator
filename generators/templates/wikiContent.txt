@@ -1,0 +1,11 @@
+= projectName URL's =
+
+== OE for Phase 1.1 App ==
+* DEV: [[http://dev-projectName-games.mondiamedia.com/]]
+* STG: [[http://staging-projectName-games.mondiamedia.com/]]
+* LIVE: [[http://projectName.mondiamedia.com/]]
+
+== Web for Phase 1.2 ==
+* DEV: [[http://dev-projectName.mondiamedia.com/]] 
+* STG: [[http://staging-projectName.mondiamedia.com/]]
+* LIVE: [[http://projectName.mondiamedia.com/]]
